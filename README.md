@@ -3,7 +3,7 @@
 I'm Yigit — someone who enjoys working close to the metal.
 - 🛠️ Passionate about **low-level programming**
 - 🎓 Member of the **42 Network**
-- 💻 Writing in **C**, occasionally dabbling in **assembly**
+- 💻 Coding in **C**, occasionally dabbling in **assembly**
 - 🌐 Using **JavaScript** and **Python** for everyday tasks
 - 🐚 Got started with **BSD**, which still holds a special place
 
